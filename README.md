@@ -1,2 +1,2 @@
-# vk_vote
-The extention for vk voting 
+# tomato_shriki
+GOLOSOVALKA
